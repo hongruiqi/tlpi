@@ -2,4 +2,4 @@
 
 ## Contents
 
-* [2 FUNDAMENTAL CONCEPTS](2.md)
+* [2. FUNDAMENTAL CONCEPTS](2.md)
